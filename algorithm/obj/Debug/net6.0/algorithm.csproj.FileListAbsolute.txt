@@ -1,0 +1,15 @@
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/algorithm
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/algorithm.deps.json
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/algorithm.runtimeconfig.json
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/algorithm.dll
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/ref/algorithm.dll
+/home/me/Documents/software/turkey-state-project/algorithm/bin/Debug/net6.0/algorithm.pdb
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.csproj.AssemblyReference.cache
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.GeneratedMSBuildEditorConfig.editorconfig
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.AssemblyInfoInputs.cache
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.AssemblyInfo.cs
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.csproj.CoreCompileInputs.cache
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.dll
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/ref/algorithm.dll
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.pdb
+/home/me/Documents/software/turkey-state-project/algorithm/obj/Debug/net6.0/algorithm.genruntimeconfig.cache

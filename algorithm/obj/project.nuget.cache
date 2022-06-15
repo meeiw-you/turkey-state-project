@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RKFzj2iosyMYNr0OaHAyhZm4Uc5h/4BLrCZBAqqHPwMbH9nz3SAAh+FYoVftBwU1wjwBMeBKqgYqq0XQgwg65w==",
+  "success": true,
+  "projectFilePath": "/home/me/Documents/software/turkey-state-project/algorithm/algorithm.csproj",
+  "expectedPackageFiles": [
+    "/home/me/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
