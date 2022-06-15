@@ -7,3 +7,6 @@ Each file is a project.
 2. Development should work in theory. 
 
 -it will have logic.
+
+-Reason I'm stopping the project Markdown i need to learn.
+
